@@ -1,1 +1,38 @@
 hi, this is my 6th file from local
+
+commit history of master branch:
+    branch2 has pushed one commit to its branch
+
+
+
+*   commit f350527c7246031294513edc82d2a406b5ad5ef6 (HEAD -> master, origin/master)
+|\  Merge: df011c7 3a49e16
+| | Author: Shiwani Mishra <89071023+mishrashiwani@users.noreply.github.com>
+| | Date:   Sun Oct 23 13:56:17 2022 +0530
+| | 
+| |     Merge pull request #1 from mishrashiwani/branch-1
+| |     
+| |     Branch 1
+| |   
+| *   commit 3a49e16a961b1f34da95fdf12ae3ed277b22a129 (origin/branch-1, branch-1)
+| |\  Merge: 6433b53 df011c7
+| |/  Author: Shiwani Mishra <shiwani.mishra@thoughtworks.com>
+|/|   Date:   Sun Oct 23 13:48:00 2022 +0530
+| |   
+| |       Merge branch 'master' into branch-1
+| | 
+* | commit df011c783ee90e75e30f10f30c0c555e3a5bf022
+| | Author: Shiwani Mishra <shiwani.mishra@thoughtworks.com>
+| | Date:   Sun Oct 23 13:46:31 2022 +0530
+| | 
+| |     first commit after the branch1 local commit
+| | 
+| * commit 6433b5300229d467a3e0e2427d0f4460e67f3c1a
+|/  Author: Shiwani Mishra <shiwani.mishra@thoughtworks.com>
+|   Date:   Sun Oct 23 13:40:32 2022 +0530
+|   
+|       first commit on branch 1
+| 
+* commit fdaf771acad4725e7a7decde47d030c6a6d27f23
+| Author: Shiwani Mishra <shiwani.mishra@thoughtworks.com>
+:
