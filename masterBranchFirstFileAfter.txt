@@ -1,0 +1,6 @@
+hi this is the new file for commit after the branch1 local commit
+commit 6433b5300229d467a3e0e2427d0f4460e67f3c1a (HEAD -> branch-1)
+| Author: Shiwani Mishra <shiwani.mishra@thoughtworks.com>
+| Date:   Sun Oct 23 13:40:32 2022 +0530
+| 
+|     first commit on branch 1
