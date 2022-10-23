@@ -1,0 +1,3 @@
+hi, this is to check the commit sha is changing or not for after rebase:
+current head is:  46899706f281c61e2c1a7ef6c01824294bada929;
+commit mesaage: 8th file from remote after merge commit
